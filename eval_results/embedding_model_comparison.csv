@@ -1,0 +1,7 @@
+model,hf_id,precision,recall,f1,accuracy,mean_f1_query
+MiniLM,sentence-transformers/all-MiniLM-L6-v2,1.0,0.1111111111111111,0.2,0.1111111111111111,0.15999999999999998
+BioBERT,pritamdeka/BioBERT-mnli-snli-scinli-scitail-mednli-stsb,1.0,0.041666666666666664,0.08,0.041666666666666664,0.065
+PubMedBERT,microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract,1.0,0.013888888888888888,0.0273972602739726,0.013888888888888888,0.025
+ClinicalBERT,emilyalsentzer/Bio_ClinicalBERT,0.0,0.0,0.0,0.0,0.0
+MPNet,sentence-transformers/all-mpnet-base-v2,1.0,0.08333333333333333,0.15384615384615385,0.08333333333333333,0.12
+BGE-small,BAAI/bge-small-en-v1.5,1.0,0.05555555555555555,0.10526315789473684,0.05555555555555555,0.09
